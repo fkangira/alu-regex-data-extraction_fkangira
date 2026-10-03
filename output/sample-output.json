@@ -1,0 +1,26 @@
+{
+    "alu_emails": [
+        "admissions@alueducation.com",
+        "alumni.support@alumni.alueducation.com",
+        "helpdesk@si.alueducation.com"
+    ],
+    "valid_cards": [
+        "4111 1111 1111 1111",
+        "5555-5555-5555-4444"
+    ],
+    "urls": [
+        "https://www.alueducation.com",
+        "https://example.com/profile?id=12"
+    ],
+    "phone_numbers": [
+        "+250 788 123 456",
+        "+255 712 345 678",
+        "0788 555 222"
+    ],
+    "hashtags": [
+        "#ALU",
+        "#SoftwareEngineering",
+        "#2026Class"
+    ],
+    "security_check": "No suspicious input found"
+}
